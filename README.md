@@ -1,50 +1,50 @@
 # tests
 
-## used libraries:
+### used libraries:
 
-### many tools for testifying
+Many tools for testifying
 
 ``` 
    "github.com/stretchr/testify" 
 ```
 
-### interact with arbitrary JSON
+Interact with arbitrary JSON
 
 ```
     "github.com/bitly/go-simplejson"
 ```
 
-### library for populating Go objects with random values
+Populating objects with random values
 
 ```
     "github.com/google/gofuzz"
 ```
 
-### fake data generator for Go 
+Fake data generator for Go 
 
 ```
 	"github.com/icrowley/fake"
 ```
 
-### Sql driver mock for Go
+Sql driver mock for Go
 
 ```
     "github.com/DATA-DOG/go-sqlmock"
 ```
 
-### Easy mock of http responses
+Easy mock of http responses
 
 ```
     "github.com/jarcoal/httpmock"
 ```
 
-###  Compare fields of objects, map
+Compare fields of objects, map
 
 ```
     "github.com/go-test/deep"
 ```
 
-### Goroutine leak detector
+Goroutine leak detector
 
 ```
     "go.uber.org/goleak"
